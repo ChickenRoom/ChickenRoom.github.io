@@ -5,7 +5,7 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: pygments
 markdown: kramdown
-disqus: enoxaiming@naver.com
+disqus: enoxaiming
 google_analytics: dbyll
 title: ChickenRoom Team Blog
 
